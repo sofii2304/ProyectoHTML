@@ -1,0 +1,56 @@
+!DOCTYPE html>
+<html>
+    <head>
+   
+    <link rel="stylesheet" href= "style.css">
+</head>
+<body>
+    
+    <header class="header">
+          </div>
+                <div style="width: 100%; height: 100%; position: relative; background: white">
+                <div style="width: 1712px; height: 164px; left: 0px; top: 0px; position: absolute; background: #B50707"></div>
+                <img style="width: 152px; height: 112px; left: 1360px; top: 7px; position: absolute" src="imagenes/Menu barra.png" />
+                <div>
+                <img style="width: 366px; height: 164px; left: 573px; top: -30px; position: absolute" src="imagenes/marvel logo.png"
+                <ul class=»acorh»>
+                    <li><a href=»#»>OPCIÓN 1</a>
+                    <ul>
+                    <li><a href=»URL11″>Opción 1.1</a></li>
+                    <li><a href=»URL12″>Opción 1.2</a></li>
+                    </ul>
+                    </li>
+                    <li><a href=»#»>OPCIÓN 2</a>
+                    <ul>
+                    <li><a href=»URL21″>Opción 2.1</a></li>
+                    <li><a href=»URL22″>Opción 2.2</a></li>
+                    <li><a href=»URL23″>Opción 2.3</a></li>
+                    </ul>
+                    </li>
+                    <li><a href=»#»>OPCIÓN 3</a>
+                    <ul>
+                    <li><a href=»URL31″>Opción 3.1</a></li>
+                    <li><a href=»URL32″>Opción 3.2</a></li>
+                    </ul>
+                    </li>
+                    </ul>
+                </div>
+                <div style="width: 1612px; height: 848px; left: -3px; top: 134px; position: absolute; background: black"></div>
+                <div style="width: 1712px; height: 1048px; left: -3px; top: 134px; position: absolute; background: black"></div>
+                <img style="width: 341px; height: 271px; left: 1050px; top: 751px; position: absolute" src="imagenes/Rectangle 9.jpg" />
+                <img style="width: 341px; height: 271px; left: 583px; top: 751px; position: absolute" src="imagenes/Rectangle 8.png" />
+                <img style="width: 320px; height: 272px; left: 136px; top: 751px; position: absolute" src="imagenes/Rectangle 7.png" />
+                <img style="width: 341px; height: 271px; left: 1050px; top: 287px; position: absolute" src="imagenes/Rectangle 5.png" />
+                <div style="width: 322px; height: 57px; left: 1050px; top: 610px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Jomhuria; font-weight: 400; line-height: 20.71px; word-wrap: break-word">Fecha de estreno: 28 de julio de 2023<br/>Ya conocemos el título de la secuela de Capitana Marvel...mas</div>
+                <div style="width: 322px; height: 57px; left: 592px; top: 603px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Jomhuria; font-weight: 400; line-height: 20.71px; word-wrap: break-word">Fecha de estreno: 28 de julio de 2023<br/>Ya conocemos el título de la secuela de Capitana Marvel...mas</div>
+                <img style="width: 341px; height: 271px; left: 583px; top: 287px; position: absolute" src="imagenes/Rectangle 4.png" />
+                <div style="width: 322px; height: 57px; left: 136px; top: 603px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Jomhuria; font-weight: 400; line-height: 20.71px; word-wrap: break-word">Fecha de estreno: 28 de julio de 2023<br/>Ya conocemos el título de la secuela de Capitana Marvel...mas</div>
+                <img style="width: 320px; height: 271px; left: 138px; top: 287px; position: absolute" src="imagenes/Rectangle 3.png" />
+                <div style="width: 1236px; height: 76px; left: 138px; top: 179px; position: absolute; text-align: center; color: white; font-size: 48px; font-family: Inknut Antiqua; font-weight: 400; line-height: 49.21px; word-wrap: break-word">¡¡¡¡NO TE PIERDAS DE ESTE CONTENIDO!!!</div>
+                    </div>
+
+    
+
+    </header>
+</body>
+    </html>
